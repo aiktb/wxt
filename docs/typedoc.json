@@ -8,6 +8,7 @@
     "typedoc-plugin-frontmatter"
   ],
   "out": "./api/reference",
+  "docsRoot": "./docs",
   "githubPages": false,
   "excludePrivate": true,
   "excludeProtected": true,
